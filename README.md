@@ -24,7 +24,6 @@ The tool executable (.exe) is available in multiple languages:
 
 > [!IMPORTANT]
 > **Windows x64 Users (Windows 10/11):** You can directly run the GUI `.exe` file included in the zip.
-> 
 > **Other Operating Systems:** If you are running 32-bit Windows, macOS, or Linux, ensure you have Python installed and follow the specific instructions below to run the `.py` version in the zip file.
 
 ---
