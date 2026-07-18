@@ -76,6 +76,14 @@ Linux systems usually have Python pre-installed, but they often lack the package
    ```bash
    python3 "DSi2CIA Downloader.py"
    ```
+   
+## 🕊️ A Personal Note
+
+Even though I surely did a good job with this, I want to say to others that life isn't just this. Being creative is fine, but it doesn't have to become an addiction. The only one who can give us real peace and joy is God, and He loved so much the world that He gave His only Son Jesus. Real life is more than these consoles. That's why I rarely use all of this, because I know there's a world to discover and to live as a gift of God. This message is an expression of faith, not to convince others. 
+
+### 📖 John 3:16-17
+> ¹⁶ *For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.*  
+> ¹⁷ *For God did not send his Son into the world to condemn the world, but to save the world through him.*
 
 ---
 
