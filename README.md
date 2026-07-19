@@ -1,5 +1,7 @@
 # DSi2CIA Downloader
 
+Read all the description, especially the end
+
 This is a program that lets you install DSi System app CIAs to use them on a 3DS, including the DSi System Settings. 
 
 ### 🌍 Supported Languages
